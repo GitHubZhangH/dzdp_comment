@@ -1,1 +1,1 @@
-aaa:q:wq:
+aaa:q:wq:hot cold
